@@ -1,0 +1,16 @@
+body{
+    background-image: url(b1.jpg);
+}
+
+#trending, #add_room, #lets_chat{
+    color: red;
+}
+
+#welcome{
+    color: royalblue;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
